@@ -1,15 +1,15 @@
 # Word Search Solver
-## How to use?
-- Clone the repository.
-- Open the terminal.
-- Go to directory where you cloned the repository.
-- Run ```make```
-- Run ```.\wordsolver```
-- Input 2 integers the dimensions of your grid `(nxm)`.
-- Input nxm lowercase latin letters, the content of your grid
-- Input the number of words to be found`(k)`.
-- Input k words.
-- The code will highlight words with different colours on the grid and output the grid.
+## How to use? 
+- Clone the repository to your local machine.
+- Open a terminal window.
+- Navigate to the directory where you cloned the repository.
+- Run `make` to compile the project.
+- Run the program by executing `./wordsolver`.
+- Input the grid dimensions as two integers `(n x m)`, where n is the number of rows and m is the number of columns.
+- Input the grid content: Provide `n x m` lowercase Latin letters for the grid.
+- Input the number of words to be found `(k)`.
+- Input the `k` words to be searched for in the grid.
+- The program will highlight the found words in different colors on the grid and output the updated grid.
 
 ## Algorithm used for solving
 
