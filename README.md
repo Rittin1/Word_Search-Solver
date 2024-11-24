@@ -1,6 +1,10 @@
 # Word Search Solver
 ## How to use?
-- Run wordsolver.cpp
+- Clone the repository.
+- Open the terminal.
+- Go to directory where you cloned the repository.
+- Run ```make```
+- Run ```.\wordsolver```
 - Input 2 integers the dimensions of your grid `(nxm)`.
 - Input nxm lowercase latin letters, the content of your grid
 - Input the number of words to be found`(k)`.
