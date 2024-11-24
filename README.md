@@ -17,6 +17,8 @@ Generally the word search game is solved by using the graph traversal algorithms
 
 This code optimizes the searching process by use of polynomial rolling hash algorithm and solves the game in `O(word_length * k + 8 * n * m * k)`.
 
+This algorithm makes the search faster for larger grid sizes and multiple words search.
+
 ## Sample Input
 ```
 7 7
