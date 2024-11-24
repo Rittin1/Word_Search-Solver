@@ -9,9 +9,11 @@
 
 ## Algorithm used for solving
 
-Generally the word search game is solved by using the graph traversal algorithms which gives a time complexity of O(word length * k * n * m). This code
+Generally the word search game is solved by using the graph traversal algorithms which gives a time complexity of O(word_length * k * n * m). This code
 optimizes the searching process by use of polynomial rolling hash algorithm and solves the game in O(word_length \* k + 8 \* n \* m \* k).
 
+## Sample Input
+![alt text](https://github.com/Rittin1/Word_Search-Solver/blob/main/input.png)
 
-
-
+## Sample Output
+![alt text](https://github.com/Rittin1/Word_Search-Solver/blob/main/output.png)
